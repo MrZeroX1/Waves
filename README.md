@@ -72,6 +72,7 @@ Number of small businesses in KSA x purchases expected in each period = market s
 ## Revenue Stream 
 - Investors
 - Subscriptions
+  
 | Package | Silver | Gold | Premium | 
 | ---- | ---- | ---- | ---- |
 | Number of employees | 2 cameras | 5 cameras | 7 cameras |
